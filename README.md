@@ -4,7 +4,7 @@
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. 
 Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
 
-# KPI
+## KPI
 1. Total Revenue: Identify the overall revenue.
 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
 3. Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
@@ -17,6 +17,20 @@ Your task is to analyze this dataset to uncover key insights related to sales tr
 10. Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
 Dashboard Interaction: <a href = "https://github.com/ankgupta55/Data_analysis_dashboard/blob/main/fnp_salea_analysis_dashboard.png">View Dashboard</a>
+
+## Steps Involved:
+- Load the data into the excel, performed data cleaning and transformation in Power Query Editor.
+- Perform Data Modelling to build the relationship between the tables.
+- Perform data analysis, create measures, and calculate columns using Dax.
+- Created Pivot tables for the KPIs.
+- Build an Interactive Dashboard and apply a slicer to make it dynamic.
+
+
+  #Dashboard:
+  <img width="1863" height="883" alt="fnp_salea_analysis_dashboard" src="https://github.com/user-attachments/assets/5e0a0975-fdc0-4acd-986d-3db13e6521fc" />
+
+
+
 
 
 
