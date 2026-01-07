@@ -16,7 +16,7 @@ Your task is to analyze this dataset to uncover key insights related to sales tr
 9. Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
 10. Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
-Dashboard Interaction: <a href = "https://github.com/ankgupta55/Data_analysis_dashboard/blob/main/fnp_salea_analysis_dashboard.png">View Dashboard</a>
+    Dashboard Interaction: <a href = "https://github.com/ankgupta55/Data_analysis_dashboard/blob/main/fnp_salea_analysis_dashboard.png">View Dashboard</a>
 
 
 
