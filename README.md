@@ -4,7 +4,7 @@
 ### You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's ### Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. 
 ### Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
 
-#KPI
+# KPI
 1. Total Revenue: Identify the overall revenue.
 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
 3. Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
