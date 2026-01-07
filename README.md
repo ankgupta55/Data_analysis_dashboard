@@ -26,8 +26,13 @@ Dashboard Interaction: <a href = "https://github.com/ankgupta55/Data_analysis_da
 - Build an Interactive Dashboard and apply a slicer to make it dynamic.
 
 
-  #Dashboard:
+#Dashboard:
   <img width="1863" height="883" alt="fnp_salea_analysis_dashboard" src="https://github.com/user-attachments/assets/5e0a0975-fdc0-4acd-986d-3db13e6521fc" />
+
+
+
+#Project Insights:
+- 
 
 
 
