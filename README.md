@@ -31,10 +31,6 @@ Dashboard Interaction: <a href = "https://github.com/ankgupta55/Data_analysis_da
 
 
 
-#Project Insights:
-- 
-
-
 
 
 
