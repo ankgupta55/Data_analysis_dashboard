@@ -1,4 +1,4 @@
-# Problem Statement: Ferns and Petals Sales Analysis (interactive Dashboard creation using MS Excel)
+# Ferns and Petals Sales Analysis (interactive Dashboard creation using MS Excel)
 
 ## Objective: 
 ### You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for
